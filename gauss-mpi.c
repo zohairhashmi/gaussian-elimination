@@ -1,5 +1,12 @@
 /* 
-Gaussian elimination using Message Passing Interface (MPI)
+ * Zohair Hashmi - 668913771 
+ 
+ * Gaussian elimination using Message Passing Interface (MPI)
+ 
+ * In the following code, the original gauss function is modified 
+ * by adding MPI to parallelize the code. The parallel region is 
+ * defined by the gauss function, and the work is divided among 
+ * the processes using the MPI scatter and gather functions.
 */
 
 /* ****** ADD YOUR CODE AT THE END OF THIS FILE. ******
