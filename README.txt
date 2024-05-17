@@ -1,14 +1,9 @@
-README - HOMEWORK 2
 Name: Zohair Hashmi
-UIN: 668913771
-Date: 02/25/2024
 
 System:
 - Chameleon.org
 - Project: CHI-241240 CHI@UC
 - Image name: CC-CentOS8-stream-CUDA11
-- IP Address: 192.5.87.89
-
 
 Steps to execute each code file:
 
